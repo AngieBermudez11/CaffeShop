@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Glass-bottle-with-vanilla-extract-on-wooden-table-1-hex { color: #F27F1B; }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-2-hex { color: #F2B680; }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-3-hex { color: #593825; }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-4-hex { color: #D9946C; }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-5-hex { color: #8C2703; }
+
+/* Color Theme Swatches in RGBA */
+.Glass-bottle-with-vanilla-extract-on-wooden-table-1-rgba { color: rgba(242, 127, 26, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-2-rgba { color: rgba(242, 181, 128, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-3-rgba { color: rgba(89, 55, 36, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-4-rgba { color: rgba(216, 148, 108, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-5-rgba { color: rgba(140, 39, 2, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Glass-bottle-with-vanilla-extract-on-wooden-table-1-hsla { color: hsla(28, 89, 52, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-2-hsla { color: hsla(28, 81, 72, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-3-hsla { color: hsla(22, 41, 24, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-4-hsla { color: hsla(22, 58, 63, 1); }
+.Glass-bottle-with-vanilla-extract-on-wooden-table-5-hsla { color: hsla(16, 96, 28, 1); }
